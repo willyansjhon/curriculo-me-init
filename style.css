@@ -1,0 +1,144 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100vh;
+    background: #cedef0;
+    padding: 30px;
+    gap: 30px;
+}
+
+.flex {
+    display: flex;
+}
+
+.me {
+    background-color: #5b9bd1 ;
+    width: 800px;
+    height: 800px;
+    border-radius: 10px;
+}
+
+.me h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.me p {
+    text-align: center;
+    font-size: large;
+}
+
+.my-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    object-fit: cover;
+    padding: 30px;
+}
+
+.experience {
+}
+
+.first-experience {
+    width: 400px;
+    height: 400px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+.first-experience h3 {
+    text-align: center;
+    padding: 30px;
+}
+
+.first-experience ul {
+    text-align: center;
+    list-style: none;
+    padding: 10px;
+}
+
+.pnv {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pnv1 {
+    background: #5b9bd1 ;
+    border-radius: 10px;
+}
+
+.pnv2 {
+    background: #35c7bb ;
+    border-radius: 10px;
+}
+
+.pnv3 {
+    background: #b82b2b ;
+    border-radius: 10px;
+}
+
+.pnv4 {
+    background: #098513 ;
+    border-radius: 10px;
+}
+
+.pnv5 {
+    background: #cbdf1f ;
+    border-radius: 10px;
+}
+
+
+
+.second-experience {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: #eee;
+}
+
+a img {
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+}
+
+.thirty-experience {
+    margin-top: 30px;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;   
+    background-color: #eee;
+}
+
+.thirty-experience h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.thirty-experience ul {
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.thirty-experience a {
+    text-decoration: none;
+}
+
